@@ -1,0 +1,3 @@
+Touch-LCD为作者自写，编译生成Touch-LCD.so到主目录下作动态链接库
+
+opencv-contrib-python为源码编译WHL包，由于LoongsonPYPI镜像站中没有，所以找到github源码编译
